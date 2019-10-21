@@ -1,2 +1,11 @@
-I had to delete all this, you forced my hand
+# Who am I
 
+* Alieldin
+* Ramadan
+* Egyptian
+
+# Hobbies:
+
+* Exercising
+* Hiking
+* Reading
