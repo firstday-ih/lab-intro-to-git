@@ -3,8 +3,4 @@
 * Alex
 * Navarro
 
-# Hobbies:
-
-* Fishing
-* Cooking
-* traveling
+Your hobbies had to die for the sake of the conflict
