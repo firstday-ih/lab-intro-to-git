@@ -6,3 +6,5 @@
 *gym
 *going out
 *reading
+
+*Mallorca
