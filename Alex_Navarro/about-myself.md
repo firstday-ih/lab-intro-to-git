@@ -1,7 +1,4 @@
-# Who am I
 
-* Alex
-* Navarro
 
 # Hobbies:
 
