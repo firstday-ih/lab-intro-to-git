@@ -2,3 +2,8 @@
 
 * Name: Vlad
 * Last Name: Autier
+# Hobbies:
+
+* Tennis
+*Football
+*Fitness
