@@ -3,8 +3,4 @@
 * Cinla
 * Ozdemir
 
-#Hobbies:
-
-*Piano
-*Pottery
-*Reading
+Amazing hobbies, but they had to go.
