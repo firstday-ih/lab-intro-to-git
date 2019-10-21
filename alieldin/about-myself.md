@@ -2,10 +2,5 @@
 
 * Alieldin
 * Ramadan
-
-# Hobbies:
-
-* Exercising
-* Hiking
-* Reading
+Amazing hobbies, but they had to go
 

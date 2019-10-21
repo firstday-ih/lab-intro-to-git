@@ -2,9 +2,4 @@
 
 * Guillem
 * Godayol
-
-# Hobbies:
-
-* Campervan
-* windsurfing
-* coding
+Amazing hobbies, but they had to go
