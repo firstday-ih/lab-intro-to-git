@@ -1,7 +1,3 @@
 #Hobbies
 
-*Singing in the shower
-*Running on Barceloneta
-*Singing while I run
-*Please tell me this is working
-*Please do
+I liked your hobbies, but they had to die for the sake of the conflict
