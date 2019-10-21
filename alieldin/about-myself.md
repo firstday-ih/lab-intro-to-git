@@ -1,6 +1,2 @@
-# Who am I
-
-* Alieldin
-* Ramadan
-Amazing hobbies, but they had to go
+I had to delete all this, you forced my hand
 

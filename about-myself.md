@@ -8,3 +8,5 @@ asdfasdfa
 *Piano
 *Pottery
 *Reading
+
+Amazing hobbies, but they had to go.
