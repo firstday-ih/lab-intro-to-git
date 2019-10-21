@@ -1,10 +1,12 @@
-Who am I 
+# Who am I 
 
-Ana 
-Recio 
+* Ana 
+* Recio 
 
-Hobbies 
+# Hobbies: 
 
-Cinema 
-Photography 
-Sport
+* Cinema
+* Music 
+* Sport 
+
+cualquier cosa 
